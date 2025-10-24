@@ -18,22 +18,22 @@
 #### 🧬 DeepStone: Automated Kidney Stone Detection  
 YOLOv8x-based deep learning pipeline for accurate kidney stone detection and measurement.  
 **Tech:** Python, OpenCV, TensorFlow  
-📄 [Project Link](#) (Add after upload)
+
 
 #### 🤖 Retrieval-Augmented Generation (RAG) Knowledge Assistant  
 A LangChain + FAISS-powered RAG system using Llama 3.1 with hybrid search for document Q&A.  
 **Tech:** Python, LangChain, Ollama, FAISS, Streamlit  
-📄 [Project Link](#)
+
 
 #### 💬 Interactive Q&A System – Public Health Data  
 AI-powered chatbot analyzing women’s hemoglobin data from data.gov.in for public health insights.  
 **Tech:** Pandas, Python, Data Analysis, NLP  
-📄 [Project Link](#)
+
 
 #### 🖨️ Printing Kiosk System (Full-Stack App)  
 QR-based printing system with Flask backend, Docker deployment & payment API integration.  
 **Tech:** Flask, Django, Tailwind CSS, Docker  
-📄 [Project Link](#)
+
 
 ---
 
